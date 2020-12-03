@@ -5,13 +5,13 @@ This repository houses my Health Insurance Cross Sell Prediction analysis. Using
 
 ## Packages Used: 
 python=3.7
-matplotlib=3.2.2
-pandas=1.0.5
+<br> matplotlib=3.2.2
+<br> pandas=1.0.5
 scikit-learn=0.23.1
 numpy=1.18.5
 pip=19.1.1=py37_0
 xgboost==1.1.1
-See data1030 yml file for more detail
+See data1030.yml file for more detail
 
 ## Repository Organization
 SRC: Contains Jupyter-Notebooks for code
